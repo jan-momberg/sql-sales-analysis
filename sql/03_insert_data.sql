@@ -1,0 +1,1 @@
+\copy portfolio.sales(order_id, order_date, customer_id, product_name, category, quantity, unit_price, revenue, country) FROM '/Users/janmomberg/Desktop/sql-portfolio-project/data/raw/sales.csv' DELIMITER ',' CSV HEADER;
