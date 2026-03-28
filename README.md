@@ -23,11 +23,7 @@ The project is extended into an **interactive multi-page dashboard** built with 
 
 ## 🖥️ Dashboard Preview
 
-> 📌 Add a screenshot here after running your app
-
-```id="imgblock"
-images/dashboard.png
-```
+![SQL Dashboard](images/dashboard.png)
 
 ---
 
